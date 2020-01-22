@@ -1,4 +1,4 @@
-# AtomoSphereExample
+# AtmosphereExample
 
 UE4の4.24で使用できるAtomoSphereを使用したプロジェクト。  
 テスト用に作成したプロジェクトになります。  
@@ -8,10 +8,10 @@ UE4の4.24で使用できるAtomoSphereを使用したプロジェクト。
 
 ## プロジェクト構成
 Project  
-　├ AtomosphereExample/  
+　├ AtmosphereExample/  
 　│　　　├ Config          //  iniファイルが格納されています。  
 　│　　　├ Content         //  ゲームモードや太陽の動作のBPが格納されています。    
-　│　　　└ AtomosphereExample.uproject    
+　│　　　└ AtmosphereExample.uproject    
 　│      
 　├ README   
 　├ LICENSE  
